@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Pokemon Chart</title>
+	<title>Evolution Chart</title>
 </head>
 <body>
 
-<h1>First Gen Pokemon Chart</h1>
+<h1>Evolution Chart</h1>
 
 	<table border="1">
 	<thead>
@@ -56,7 +56,7 @@
 			<th>
 				<img width="150" src="https://thenypost.files.wordpress.com/2018/03/putin-smirk.jpg?quality=90&strip=all&w=618&h=410&crop=1">
 			</th>
-			<th>Vladimir Vladimirovich Putin</th>
+			<th>Vladimir Putin</th>
 			<th>Badass</th>
 			<th>
 				<a href="https://en.wikipedia.org/wiki/President_of_Russia">President of the Russian Federation</a>
@@ -71,6 +71,17 @@
 			<th>Male</th>
 			<th>
 				<a href="http://www.jewishpress.com/blogs/the-lid-jeffdunetz/trump-nazi-comparisons-are-absurd-inappropriate-reflect-an-ignorance-of-history/2018/06/27/">Not Hitler</a>
+			</th>
+		</tr>
+<!-- Hillary Clinton -->		
+		<tr>
+			<th>
+				<img width="150" src="https://www.infowars.com/wp-content/uploads/2017/09/210917hillary.jpg">
+			</th>
+			<th>Hillary Clinton</th>
+			<th>Female</th>
+			<th>
+				<a href="https://www.youtube.com/watch?v=F9W6C9UulCM">Not the US President</a>
 			</th>
 		</tr>
 	</tbody>
